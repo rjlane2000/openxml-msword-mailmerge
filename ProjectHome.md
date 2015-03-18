@@ -1,0 +1,1 @@
+word document mail merge for template via XML. It also uses LINQ, Lambda Expressions, and Regular Expressions.
